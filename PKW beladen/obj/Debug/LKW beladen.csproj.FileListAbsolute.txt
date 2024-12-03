@@ -1,0 +1,7 @@
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\bin\Debug\LKW beladen.exe.config
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\bin\Debug\LKW beladen.exe
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\bin\Debug\LKW beladen.pdb
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\obj\Debug\LKW beladen.csproj.AssemblyReference.cache
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\obj\Debug\LKW beladen.csproj.CoreCompileInputs.cache
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\obj\Debug\LKW beladen.exe
+C:\Users\KutznerC\source\repos\LKW beladen\LKW beladen\obj\Debug\LKW beladen.pdb
